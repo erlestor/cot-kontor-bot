@@ -8,7 +8,7 @@
 - [x] legg te api server (express)
 - [x] lag GET endepunkt for å hent on_state
 - [x] lag PUT endepunkt for å endre on_state te false
-- [ ] opprett repo på cot github'en
+- [x] opprett repo på github'en
 - [ ] hoste på servern min
 - [ ] gjør permissions strenger. bot kan no les i alle kanalan
 - [ ] rate limite som bare faen
