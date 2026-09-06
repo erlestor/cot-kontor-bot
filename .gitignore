@@ -1,0 +1,4 @@
+.env
+node_modules
+on_state.txt
+last_message_id.txt
